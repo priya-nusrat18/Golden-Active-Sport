@@ -1,0 +1,24 @@
+.logo img {
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+	padding-top: 50px;
+}
+.info-warp {
+	background: black;
+}
+.mian-info {
+	background-color: #6e1643;
+}
+.info-img img {
+    width:100%;
+}
+.social-links img {
+	width: 50px;
+}
+.description {
+	text-align: justify;
+	padding: 20px;
+}
+
+
